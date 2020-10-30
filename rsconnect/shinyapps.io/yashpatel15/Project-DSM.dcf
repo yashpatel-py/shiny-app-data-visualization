@@ -1,0 +1,13 @@
+name: Project-DSM
+title: Project-DSM
+username:
+account: yashpatel15
+server: shinyapps.io
+hostUrl: https://api.shinyapps.io/v1
+appId: 3079660
+bundleId: 3801329
+url: https://yashpatel15.shinyapps.io/Project-DSM/
+when: 1604074814.96715
+asMultiple: FALSE
+asStatic: FALSE
+ignoredFiles: .RData
